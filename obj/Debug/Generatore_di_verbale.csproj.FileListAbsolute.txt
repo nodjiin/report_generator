@@ -1,0 +1,9 @@
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\bin\Debug\Generatore_di_verbale.exe.config
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.csprojResolveAssemblyReference.cache
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.Facciata.resources
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.Properties.Resources.resources
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.csproj.GenerateResource.Cache
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\bin\Debug\Generatore_di_verbale.exe
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\bin\Debug\Generatore_di_verbale.pdb
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.exe
+c:\users\nodji\documents\visual studio 2015\Projects\Generatore_di_verbale\Generatore_di_verbale\obj\Debug\Generatore_di_verbale.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Percentuali>
+  <Provincia>0,15</Provincia>
+  <ATC>0,10</ATC>
+  <ComuniInvitati>0,10</ComuniInvitati>
+  <SassoMorelli>0,28</SassoMorelli>
+  <Giardino>0,28</Giardino>
+  <SestoImolese>0,28</SestoImolese>
+  <SpazzateSassatelli>0,16</SpazzateSassatelli>
+</Percentuali> 
